@@ -25,4 +25,4 @@ if __name__== "__main__":
     ans = euler_11(nums)
     stop = timeit.default_timer()
     print('Answer:', ans)
-    print('Runt ime:', stop - start)  
+    print('Runtime:', stop - start)  

@@ -37,4 +37,4 @@ if __name__== "__main__":
     ans = euler_14(1000000)
     stop = timeit.default_timer()
     print('Answer:', ans)
-    print('Runt ime:', stop - start)  
+    print('Runtime:', stop - start)  
